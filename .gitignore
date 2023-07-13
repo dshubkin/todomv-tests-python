@@ -1,0 +1,7 @@
+.idea
+
+.DS_Store
+
+/src/tests/smoke_tests/.pytest_cache
+/src/**/__pycache__/
+/src/__pycache__/
